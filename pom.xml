@@ -30,7 +30,7 @@
 		<repository>
 			<id>github</id>
 			<name>JDC Portals Maven Packages</name>
-			<url>https://maven.pkg.github.com/JDC-ONE-DEV/jdc-portal-parent</url>
+			<url>https://maven.pkg.github.com/jdc-one-dev/jdc-portal-parent</url>
 		</repository>
 	</distributionManagement>
 
